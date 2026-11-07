@@ -1,0 +1,31 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Shield Outer Base -->
+    <path
+        android:pathData="M50,5 L85,20 V50 C85,72 50,95 50,95 C50,95 15,72 15,50 V20 Z"
+        android:fillColor="#0052CC" />
+
+    <!-- Top Accent Bar (Light Blue) -->
+    <path
+        android:pathData="M25,25 H75 V35 H25 Z"
+        android:fillColor="#32C5FF" />
+
+    <!-- Vertical Accent Line (Red) -->
+    <path
+        android:pathData="M25,35 H35 V65 H25 Z"
+        android:fillColor="#E53935" />
+
+    <!-- Middle Accent Bar (Light Blue) -->
+    <path
+        android:pathData="M35,45 H75 V55 H35 Z"
+        android:fillColor="#32C5FF" />
+
+    <!-- Bottom Shield Point Accent (Yellow) -->
+    <path
+        android:pathData="M25,65 H75 L50,88 Z"
+        android:fillColor="#FFC107" />
+</vector>

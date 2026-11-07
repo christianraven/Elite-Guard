@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234895776152",
+    "project_id": "eliteguard-c22b0",
+    "storage_bucket": "eliteguard-c22b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234895776152:android:fa20246a0adc7af53333ed",
+        "android_client_info": {
+          "package_name": "com.example.eliteguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5rZ2XSzH2CXhlAYBT1Jrun4w-kpXijNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
